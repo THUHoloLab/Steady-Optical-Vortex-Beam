@@ -9,30 +9,30 @@
 
 This work demonstrates a steady optical vortex beam (STOVB) that integrates the properties of steady optical beams (STOB) with vortex beam. STOVB achieves both an extended depth of focus and robust data transmission in turbulence, demonstrating a 17.6% reduction in intensity variation over time. This approach provides a promising pathway for high-resolution imaging and optical communication in challenging environments such as air, water, and other complex media.
 
-<p align="left">
-<img src="imgs/theory.jpg", width='800'>
+<p align="center">
+<img src="imgs/theory.jpg", width='600'>
 </p>
 
 Amplitude and phase modulation using a spatial light modulator (SLM).
 
-<p align="left">
-<img src="imgs/modulation.gif", width='800'>
+<p align="center">
+<img src="imgs/modulation.gif", width='600'>
 </p>
 
 Numerical simulation of STOB properties.
 
-<p align="left">
-<img src="imgs/STOB.gif", width='800'>
+<p align="center">
+<img src="imgs/STOB.gif", width='600'>
 </p>
 
 Experimental setup of STOB and STOVB.
 
-<p align="left">
-<img src="imgs/setup.png", width='800'>
+<p align="center">
+<img src="imgs/setup.png", width='600'>
 </p>
 
-<p align="left">
-<img src="imgs/setup2.jpg", width='800'>
+<p align="center">
+<img src="imgs/setup2.jpg", width='600'>
 </p>
 
 ## Reference
@@ -57,6 +57,7 @@ Principles, simulations, and experimental validations of STOVB.
 ## Contact
 -  Yiqian Yang, yang-yq22@mails.tsinghua.edu.cn
 -  Liangcai Cao, clc@tsinghua.edu.cn
+
 
 
 
