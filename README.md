@@ -1,5 +1,5 @@
 <div align="center">
-<h1> Quantum holography enhanced by object-uncorrelated photons </h1>
+<h1> Steady optical vortex beam enables extended depth of focus and robust data transmission in turbulence </h1>
 
 **[Yiqian Yang](https://scholar.google.com/citations?user=98z1r7MAAAAJ&hl=zh-TW&oi=ao)** and **[Liangcai Cao](https://scholar.google.com/citations?user=FYYb_-wAAAAJ&hl=en)**
 
@@ -7,43 +7,57 @@
 
 </div>
 
-This work demonstrates a quantum holography approach that leverages spatial correlations of entangled photons to overcome the limitations of small detector areas, enabling high-resolution holographic reconstruction. The code numerically simulates digital holography and iterative phase retrieval, providing a computational framework to model diffraction propagation and phase retrieval, which helps illustrate how complete object information can be reconstructed from partially recorded holograms.
+This work demonstrates a steady optical vortex beam (STOVB) that integrates the properties of steady optical beams (STOB) with vortex beam. STOVB achieves both an extended depth of focus and robust data transmission in turbulence, demonstrating a 17.6% reduction in intensity variation over time. This approach provides a promising pathway for high-resolution imaging and optical communication in challenging environments such as air, water, and other complex media.
 
 <p align="left">
-<img src="Theory.jpg", width='800'>
+<img src="imgs/theory.jpg", width='800'>
+</p>
+
+Amplitude and phase modulation using a spatial light modulator (SLM).
+
+<p align="left">
+<img src="imgs/modulation.gif", width='800'>
+</p>
+
+Numerical simulation of STOB properties.
+
+<p align="left">
+<img src="imgs/STOB.gif", width='800'>
+</p>
+
+Experimental setup of STOB and STOVB.
+
+<p align="left">
+<img src="imgs/setup.png", width='800'>
+</p>
+
+<p align="left">
+<img src="imgs/setup2.jpg", width='800'>
 </p>
 
 ## Reference
--  Yiqian Yang, Zhixiang Li, Zhengzhong Huang, Andrew Forbes, Liangcai Cao, Keyu Xia, Yanqing Lu, "Quantum holography enhanced by object-uncorrelated photons," Physical Review Applied, xxx.
--  https://doi.org/10.1103/b2hb-7zj5
+A review: Principles, characteristics, and implementation of SLMs.
+-  Yiqian Yang, Andrew Forbe, Liangcai Cao, "A review of liquid crystal spatial light modulators: devices and applications," Opto-Electronic Science, 2(8): 230026-230026 (2023).
+-  https://doi.org/10.29026/oes.2023.230026
+
+Principles, simulations, and experimental validations of STOB.
+-  Yiqian Yang, Xingwang Kang, Liangcai Cao, "Robust propagation of a steady optical beam through turbulence with extended depth of focus based on spatial light modulator," J. Phys. Photonics 5 035002 (2023).
+-  https://doi.org/10.1088/2515-7647/acd28c
+
+Principles, simulations, and experimental validations of STOVB.
+-  Yiqian Yang, Liangcai Cao, Yidong Tan, Hongbo Sun, "Steady optical vortex beam enables extended depth of focus and robust data transmission in turbulence," Optics and Lasers in Engineering 188, 108889 (2025).
+-  https://doi.org/10.1016/j.optlaseng.2025.108889
 
 ## Requirements
 -  MATLAB R2022a or newer versions
 
-## Function
--  Propagator function
--  FT
--  IFT
-
-## Object+SPDC algorithm
--  The generalization of the algorithm is validated under different entangled photon-pair utilizations.
-<p align="left">
-<img src="imgs/SIZE-A.gif", width="394"> &nbsp;
-<img src="imgs/SIZE-P.gif", width="394">
-<p align="left">
-
--  The robustness of the algorithm is verified in the presence of various levels of noise and loss.
-<p align="left">
-<img src="imgs/SNR-A.gif", width="394"> &nbsp;
-<img src="imgs/SNR-P.gif", width="394">
-<p align="left">
-
-## Source
--  The simulation and experiment original measurement image
+## Algorithm
+-  The simulation and experimental codes are provided in the main folder. 
 
 ## Contact
 -  Yiqian Yang, yang-yq22@mails.tsinghua.edu.cn
 -  Liangcai Cao, clc@tsinghua.edu.cn
+
 
 
 
