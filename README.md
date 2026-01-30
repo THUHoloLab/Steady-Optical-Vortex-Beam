@@ -25,11 +25,12 @@ Numerical simulation of STOB properties.
 <img src="imgs/STOB.gif", width='600'>
 </p>
 
-Experimental setup of STOB and STOVB.
+Experimental setups of STOB and STOVB.
 
 <p align="center">
 <img src="imgs/setup.png", width='600'>
 </p>
+
 
 <p align="center">
 <img src="imgs/setup2.jpg", width='600'>
@@ -57,6 +58,7 @@ Principles, simulations, and experimental validations of STOVB.
 ## Contact
 -  Yiqian Yang, yang-yq22@mails.tsinghua.edu.cn
 -  Liangcai Cao, clc@tsinghua.edu.cn
+
 
 
 
