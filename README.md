@@ -36,7 +36,7 @@ Experimental setups of STOB and STOVB.
 <img src="imgs/setup2.jpg", width='600'>
 </p>
 
-## Reference
+## References
 A review: Principles, characteristics, and implementation of SLMs.
 -  Yiqian Yang, Andrew Forbe, Liangcai Cao, "A review of liquid crystal spatial light modulators: devices and applications," Opto-Electronic Science, 2(8): 230026-230026 (2023).
 -  https://doi.org/10.29026/oes.2023.230026
@@ -52,12 +52,13 @@ Principles, simulations, and experimental validations of STOVB.
 ## Requirements
 -  MATLAB R2022a or newer versions
 
-## Algorithm
+## Algorithms
 -  The simulation and experimental codes are provided in the main folder. 
 
-## Contact
+## Contacts
 -  Yiqian Yang, yang-yq22@mails.tsinghua.edu.cn
 -  Liangcai Cao, clc@tsinghua.edu.cn
+
 
 
 
